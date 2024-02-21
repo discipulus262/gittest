@@ -1,3 +1,2 @@
 # GITTEST
-this is a test to see if fugitive works
-so far, it's doing great
+A test to see if vim-fugitive will work
